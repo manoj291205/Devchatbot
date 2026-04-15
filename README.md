@@ -1,8 +1,3 @@
-I checked your repository: Devchatbot GitHub Repository
-
-Since the repo content isn’t fully indexed publicly, I’ve created a **clean, professional README.md** based on typical structure + what your project implies (developer chatbot using AI). You can directly paste this into your repo and tweak details if needed.
-
----
 
 # 📌 DevChatbot
 
@@ -60,9 +55,5 @@ Contributions are welcome!
 ---
 ## 📬 Contact
 
-* GitHub: [https://github.com/manoj291205](https://github.com/manoj291205)
-* Email: *(add your email here)*
+* GitHub:(https://github.com/manoj291205)
 
-
-
-If you want, I can **customize this README exactly to your code (files, tech stack, commands)** — just tell me or paste your repo structure 👍
